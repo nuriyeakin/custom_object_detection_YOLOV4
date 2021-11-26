@@ -13,7 +13,10 @@ Save and close the folder.
 
 Since we will use the transfer learning method during the training phase, we will download some files:
 
-yolov4.conv.137 and  yolov4.weights
+
+yolov4.conv.137 https://drive.google.com/file/d/1JKF-bdIklxOOVy-2Cr5qdvjgGpmGfcbp/view
+and  
+yolov4.weights https://drive.google.com/file/d/1cewMfusmPjYWbrnuJRuKhPMwRe_b9PaT/view
 
 You need to both files inside Darknet.
 
