@@ -18,7 +18,7 @@ yolov4.conv.137 https://drive.google.com/file/d/1JKF-bdIklxOOVy-2Cr5qdvjgGpmGfcb
 and  
 yolov4.weights https://drive.google.com/file/d/1cewMfusmPjYWbrnuJRuKhPMwRe_b9PaT/view
 
-You need to both files inside Darknet.
+You need to add both files inside Darknet.
 
  spot_yolov4.cfg --> add this file inside darknet
  
