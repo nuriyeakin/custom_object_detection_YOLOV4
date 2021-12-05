@@ -45,3 +45,7 @@ I click on get started. I select the folder with the images I will upload, click
 
 
 
+
+RESULTS:
+https://www.youtube.com/watch?v=XPbgrsLuC9Q&t=2s
+
