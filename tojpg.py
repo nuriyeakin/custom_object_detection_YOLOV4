@@ -1,11 +1,18 @@
+# -*- coding: utf-8 -*-
+"""
+Spyder Editor
+
+This is a temporary script file.
+"""
+
 import cv2
 import os
 from glob import glob
 
-png = glob("C:\YOLO\custom_yolo_model\yolov4\darknet\spot_data\spot_images\*.png")
+png = glob("E:\YOLO\custom_yolo_model\spot_data\spot_images\*.jpeg")
 
 for j in png:
     print(j)
     img = cv2.imread(j)
-    cv2.imwrite(j[:-3]+"jpg",img) #son 3 karakteri aldım 
+    cv2.imwrite(j[:-4]+"jpg",img)
     os.remove(j)
