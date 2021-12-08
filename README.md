@@ -1,5 +1,7 @@
 # YOLOV4 Custom Object Detector Google Colab 
 
+<img src="https://j.gifs.com/r2MD92.gif" width="600" height="400" />
+
 In this article, I will describe how to train our own object detection model.
 I chose Boston Dynamics' Spot robot as my object.
 
@@ -50,4 +52,6 @@ RESULTS:
 https://www.youtube.com/watch?v=XPbgrsLuC9Q&t=2s
 
 <img src="https://j.gifs.com/lRMwx1.gif" width="600" height="400" />
+
+
 
