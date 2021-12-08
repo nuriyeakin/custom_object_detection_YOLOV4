@@ -1,4 +1,4 @@
-# YOLOV4 Custom Object Detector Google Colab 
+# YOLOV4 Custom Object Detector Using Google Colab 
 
 <img src="https://j.gifs.com/r2MD92.gif" width="600" height="400" />
 
