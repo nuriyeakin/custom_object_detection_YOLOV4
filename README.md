@@ -49,5 +49,5 @@ I click on get started. I select the folder with the images I will upload, click
 RESULTS:
 https://www.youtube.com/watch?v=XPbgrsLuC9Q&t=2s
 
-<iframe src='//gifs.com/embed/spot-lRMwx1' frameborder='0' scrolling='no' width='640px' height='360px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
+<img src="https://j.gifs.com/lRMwx1.gif" width="600" height="400" />
 
